@@ -1,4 +1,4 @@
-# Lenovo L380 OpenCore EFI
+# Lenovo ThinkPad L380 Hackintosh OpenCore EFI
 
 
 | Category | Description |
